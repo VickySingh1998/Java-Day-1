@@ -13,9 +13,9 @@ public class string {
 		String st2= sc.nextLine();
 		
 		if (st1==st2) {
-			System.out.print("Enter First String:");
+			System.out.print("The String Is Equal");
 		else 
-			System.out.print("Enter First String:");
+			System.out.print("The String Is Not Equal");
 		}
 		
 		
